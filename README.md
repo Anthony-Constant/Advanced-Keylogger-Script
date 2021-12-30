@@ -5,7 +5,7 @@
 Created an Advanced Python Keylogger script.
 
 <h2> HOW IT WORKS </h2>
-Created an Advanced Python Keylogger script. Once the script has been executed, it will automatically create a key_log.txt file on the local machine and writes anything which is typed on the keyboard (all keystrokes) to the file created.
+Created an Advanced Python Keylogger script. Once the script has been executed, it will automatically create a key_log.txt file on the local machine and writes anything which is typed on the keyboard (all keystrokes) to the file created.<br>
 
 Every 10 seconds, the script automatically sends the key_log.txt file to a specified email address using SMTP.  
 
